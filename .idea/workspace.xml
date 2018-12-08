@@ -36,14 +36,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="57" />
-          <entry key="txt" value="94" />
+          <entry key="py" value="78" />
+          <entry key="txt" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="94" />
-          <entry key="Python" value="57" />
+          <entry key="PLAIN_TEXT" value="110" />
+          <entry key="Python" value="78" />
         </counts>
       </usages-collector>
     </session>
@@ -53,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DeepLearning.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+            <state relative-caret-position="89">
+              <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -84,7 +84,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="949" />
     <option name="width" value="980" />
     <option name="height" value="1031" />
@@ -156,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1544262363958</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="explanations">
+      <created>1544263259255</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544263259255</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Calculate the output of this network using the weights and bias tensors">
+      <created>1544263374681</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544263374681</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -169,7 +183,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="0" width="653" height="687" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.46543002" />
@@ -206,13 +220,15 @@
     <MESSAGE value="add conda as interpreteur" />
     <MESSAGE value="conda update" />
     <MESSAGE value="todo:" />
-    <option name="LAST_COMMIT_MESSAGE" value="todo:" />
+    <MESSAGE value="explanations" />
+    <MESSAGE value="Calculate the output of this network using the weights and bias tensors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculate the output of this network using the weights and bias tensors" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DeepLearning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        <state relative-caret-position="89">
+          <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
         </state>
       </provider>
     </entry>
