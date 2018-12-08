@@ -21,3 +21,5 @@ features = torch.randn((1, 5))
 weights = torch.randn_like(features)
 # and a true bias term
 bias = torch.randn((1, 1))
+
+## Calculate the output of this network using the weights and bias tensors
