@@ -22,4 +22,6 @@ weights = torch.randn_like(features)
 # and a true bias term
 bias = torch.randn((1, 1))  # creates a single value
 
-## Calculate the output of this network using the weights and bias tensors
+# Calculate the output of this network using the weights and bias tensors
+y = activation(torch.sum(features * weights) + bias)
+y = activation((features * weights).sum() + bias)
